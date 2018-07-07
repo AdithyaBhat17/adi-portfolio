@@ -1,11 +1,19 @@
 {
-  "main.css": "static/css/main.5f8990ed.css",
-  "main.css.map": "static/css/main.5f8990ed.css.map",
-  "main.js": "static/js/main.b5e51823.js",
-  "main.js.map": "static/js/main.b5e51823.js.map",
+  "main.css": "static/css/main.4d86c8b8.css",
+  "main.css.map": "static/css/main.4d86c8b8.css.map",
+  "main.js": "static/js/main.6cf97a7d.js",
+  "main.js.map": "static/js/main.6cf97a7d.js.map",
   "static/media/AdithyaNR-resume.pdf": "static/media/AdithyaNR-resume.c861eadb.pdf",
   "static/media/about.png": "static/media/about.7c364ce9.png",
+  "static/media/aikya.png": "static/media/aikya.432fdd41.png",
+  "static/media/bapspatil.png": "static/media/bapspatil.88fd0473.png",
   "static/media/bg.png": "static/media/bg.b0ee5960.png",
   "static/media/bgmain.png": "static/media/bgmain.fbcd5c7c.png",
-  "static/media/webdev.png": "static/media/webdev.7eced147.png"
+  "static/media/dugout.png": "static/media/dugout.660dec23.png",
+  "static/media/mountain.png": "static/media/mountain.8cce5963.png",
+  "static/media/rnsit.png": "static/media/rnsit.0f4ad2f4.png",
+  "static/media/shutterup.png": "static/media/shutterup.85c9d93c.png",
+  "static/media/wallart.png": "static/media/wallart.07add1d0.png",
+  "static/media/webdev.png": "static/media/webdev.7eced147.png",
+  "static/media/yelpcamp.png": "static/media/yelpcamp.221ca538.png"
 }
