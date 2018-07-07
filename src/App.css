@@ -197,7 +197,49 @@ html{
   color:#fff;
 }
 
+/* portfolio section */
+.portfolio{
+  background: url('./bg.png');
+  padding-top: 10px;
+  padding-bottom:10px;
+  text-align:center;
+  color:#161743;
+  font-family: "Reem Kufi";
+}
 
+.thumbnail{
+  margin-top: 10px;
+  border:0 !important;
+  border-radius: 18px;
+  padding: 0;
+  padding-bottom: 10px;
+  box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
+  background: url('./bg.png');
+  overflow: hidden;
+}
+
+.workh{
+  font-size: 17px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 0;
+  text-shadow: 0.1px 0.1px 0.1px;
+}
+
+.workp{
+  font-size: 15px;
+  margin: 5px auto 10px;
+}
+
+.workbtn{
+  color:#fff;
+  margin: 10px auto;
+  background-color: #161743cc;
+  border-radius: 25px;
+  padding:2px 30px;
+  font-size: 16px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.5);
+}
 
 /* iphone 4 */
 @media only screen and (max-width:359px){
@@ -327,6 +369,9 @@ html{
   .resume{
     margin-bottom: 20px !important;
   }
+  .workp{
+    font-size: 16px;
+  }
 }
 
 /* iphoneX */
@@ -427,6 +472,9 @@ html{
   .resume{
     margin-bottom: 20px !important;
   }
+  .workp{
+    font-size: 16px;
+  }
 }
 
 /* pixel 2 devices */
@@ -494,6 +542,12 @@ html{
   }
   .resume{
     margin-bottom: 20px !important;
+  }
+  .workp{
+    font-size: 16px;
+  }
+  .workbtn{
+    padding-bottom: 3px;
   }
 }
 
@@ -572,6 +626,16 @@ html{
     font-size: 21px;
     padding:2px 30px;
   }
+  .workh{
+    font-size: 21px;
+  }
+  .workp{
+    font-size: 18px;
+  }
+  .workbtn{
+    font-size: 18px;
+    padding: 2px 35px 3px 30px;
+  }
 }
 
 @media only screen and (min-width:768px) and (max-width:992px){
@@ -648,6 +712,19 @@ html{
     margin-bottom: 20px !important;
     font-size: 21px;
     padding:4px 40px;
+  }
+  .thumbnail{
+    padding-bottom: 20px;
+  }
+  .workh{
+    font-size: 24px;
+  }
+  .workp{
+    font-size: 21px;
+  }
+  .workbtn{
+    font-size: 21px;
+    padding: 2px 45px 3px 45px;
   }
 }
 
@@ -726,6 +803,19 @@ html{
     font-size: 21px;
     padding:4px 40px;
   }
+  .thumbnail{
+    padding-bottom: 20px;
+  }
+  .workh{
+    font-size: 32px;
+  }
+  .workp{
+    font-size: 24px;
+  }
+  .workbtn{
+    font-size: 24px;
+    padding: 2px 45px 3px 45px;
+  }
 }
 
 @media only screen and (min-width:1440px){
@@ -750,6 +840,12 @@ html{
   }
   .resume{
     padding:2px 30px 3px 30px;
+  }
+  .workh{
+    font-size:18px;
+  }
+  .workp{
+    font-size:16px;
   }
 }
 

@@ -16,7 +16,7 @@ class Landing extends Component{
                             <p className="intro-p animated fadeInRight">I'm a 20 year old web developer based in Bengaluru,IN. 
                             <br/>If you are a business seeking a web presence or an<br/>employer looking to hire,you can get in touch with me here.</p>
                             <div className="btns animated fadeInUp">
-                                <a href="https://goo.gl/forms/5tuFTzDAmxI1sliu2" className="btn1">I need a website</a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://goo.gl/forms/5tuFTzDAmxI1sliu2" className="btn1">I need a website</a>
                                 <a href="#contact" className="btn2">I'm looking to hire</a>
                             </div>                        
                         </div>   

@@ -24,10 +24,10 @@ class About extends Component{
                             <p className="about-p">I freelance in my free time.I work on projects right from design phase to the development phase.</p>
                             <p className="about-p">This website is my personal/professional website and will house all my work.</p>
                             <div className="socials">
-                                <a target="_blank" href="https://github.com/AdithyaBhat17"><i className="fab fa-github fa-2x animated pulse infinite"></i></a>
-                                <a target="_blank" href="https://linkedin.com/in/adithya-nr-8002a8148/"><i className="fab fa-linkedin fa-2x animated pulse infinite"></i></a>
-                                <a target="_blank" href="https://instagram.com/adithyabhat__/"><i className="fab fa-instagram fa-2x animated pulse infinite"></i></a>
-                                <a target="_blank" href="https://twitter.com/Adithyabhat9"><i className="fab fa-twitter fa-2x animated pulse infinite"></i></a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://github.com/AdithyaBhat17"><i className="fab fa-github fa-2x animated pulse infinite"></i></a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/adithya-nr-8002a8148/"><i className="fab fa-linkedin fa-2x animated pulse infinite"></i></a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/adithyabhat__/"><i className="fab fa-instagram fa-2x animated pulse infinite"></i></a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/Adithyabhat9"><i className="fab fa-twitter fa-2x animated pulse infinite"></i></a>
                             </div>
                             <a href={resume} className="resume">Download Resume</a>
                         </div>
