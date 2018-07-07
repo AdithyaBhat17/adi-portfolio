@@ -1,7 +1,6 @@
 import React,{Component} from 'react';
 import './App.css';
 import webdev from './webdev.png';
-import down from './chevron-down-solid.svg';
 
 class Landing extends Component{
     render(){
