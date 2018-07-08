@@ -876,7 +876,7 @@ textarea{
   }
 }
 
-@media only screen and (device-width:1024px) and (device-height:1366px){
+@media only screen and (min-width:993px) and (max-width:1024px){
   .navbar-brand{
     font-size:3.2em;
   }
@@ -898,17 +898,17 @@ textarea{
     padding: 10px 0;
   }
   .heroimg{
-    width: 70%;
-    margin: 0 auto 0;
+    width: 90%;
+    margin: 2vh auto 0;
   }
   .hello{
-    margin:25px auto 0;
-    font-size: 8em;
+    margin:10vh auto 0;
+    font-size: 4em;
     text-align: center;
   }
   .intro-p{
     margin: 10px auto 0;
-    font-size: 28px;
+    font-size: 21px;
     text-align: center;
   }
   .btns{
@@ -916,12 +916,12 @@ textarea{
     margin:25px auto 0;
   }
   .btn1,.btn2{
-    padding:2px 50px;
-    font-size: 28px;
+    padding:2px 35px;
+    font-size: 21px;
   }
   .fa-chevron-down{
     display: block;
-    margin:10vh auto 0 !important;
+    margin:40vh auto 0 !important;
   }
   .about{
     padding-bottom:20px;
@@ -930,7 +930,7 @@ textarea{
     font-size: 2.5em;
   }
   .aboutimg{
-    margin:20px auto 0;
+    margin:80px auto 0;
     width: 60%;
   }
   .webdesigner{
@@ -953,28 +953,29 @@ textarea{
   }
   .thumbnail{
     padding-bottom: 20px;
+    /* height:280px; */
   }
   .workh{
-    font-size: 32px;
+    font-size: 21px;
   }
   .workp{
-    font-size: 24px;
+    font-size: 19px;
   }
   .workbtn{
-    font-size: 24px;
-    padding: 2px 45px 3px 45px;
+    font-size: 21px;
+    padding: 2px 35px 3px 35px;
   }
   .form{
     width:95%;
-    margin:-10px auto 10px;
+    margin:10px auto 10px;
     padding:10px 20px 10px;
-    font-size:21px;
+    font-size:18px;
   }
   .btnf{
-    padding:5px 50px;
+    padding:5px 40px;
   }
   .form p{
-    font-size:21px;
+    font-size:18px;
   }
   .contactimg{
     margin:30px auto 0;

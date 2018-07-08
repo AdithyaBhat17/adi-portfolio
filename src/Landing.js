@@ -8,10 +8,10 @@ class Landing extends Component{
             <div className="hero">
                 <div className="container">
                     <div className="row">
-                        <div className="col-lg-6 col-lg-push-6">
+                        <div className="col-md-6 col-lg-push-6">
                             <img src={webdev} alt="Designed By Freepik" className="heroimg animated fadeInUp"/>
                         </div>
-                        <div className="col-lg-6 col-lg-pull-6">
+                        <div className="col-md-6 col-lg-pull-6">
                             <h1 className="hello animated fadeInLeft">Hello,I'm Adithya!</h1>
                             <p className="intro-p animated fadeInRight">I'm a 20 year old web developer based in Bengaluru,IN. 
                             <br/>If you are a business seeking a web presence or an<br/>employer looking to hire,you can get in touch with me here.</p>

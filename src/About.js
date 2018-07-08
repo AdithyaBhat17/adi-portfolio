@@ -14,10 +14,10 @@ class About extends Component{
                 <h3 className="aboutheader wow fadeInDown">&lt;About Me/&gt;</h3>
                 <div className="container">
                     <div className="row">
-                        <div className="col-lg-6 col-sm-12 col-xs-12 wow fadeInLeft">
+                        <div className="col-md-6 col-sm-12 col-xs-12 wow fadeInLeft">
                             <img src={about} alt="Designed by Freepik" className="aboutimg"/>
                         </div>
-                        <div className="col-lg-6 col-sm-12 col-xs-12 wow fadeInRight">
+                        <div className="col-md-6 col-sm-12 col-xs-12 wow fadeInRight">
                             <h3 className="webdesigner">Web designer &amp; developer</h3>
                             <p className="about-p">Hey there! I'm Adithya NR.</p>
                             <p className="about-p">I specialize in Front-end Web Development and am experienced with all stages of the development cycle for dynamic web projects.</p>
