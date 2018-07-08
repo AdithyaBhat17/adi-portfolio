@@ -1,8 +1,8 @@
 import React,{Component} from 'react';
 import './App.css';
-import about from './about.png';
+import about from './assets/about.png';
 import WOW from 'wowjs';
-import resume from './AdithyaNR-resume.pdf';
+import resume from './assets/AdithyaNR-resume.pdf';
 
 class About extends Component{
     componentDidMount(){

@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import './App.css';
-import webdev from './webdev.png';
+import webdev from './assets/webdev.png';
 
 class Landing extends Component{
     render(){

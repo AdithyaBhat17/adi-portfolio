@@ -1,13 +1,13 @@
 import React,{Component} from 'react';
 import './App.css';
-import baps from './bapspatil.png';
-import rnsit from './rnsit.png';
-import aikya from './aikya.png';
-import wallart from './wallart.png';
-import dugout from './dugout.png';
-import yelpcamp from './yelpcamp.png';
-import mountain from './mountain.png';
-import shutter from './shutterup.png';
+import baps from './assets/bapspatil.png';
+import rnsit from './assets/rnsit.png';
+import aikya from './assets/aikya.png';
+import wallart from './assets/wallart.png';
+import dugout from './assets/dugout.png';
+import yelpcamp from './assets/yelpcamp.png';
+import mountain from './assets/mountain.png';
+import shutter from './assets/shutterup.png';
 
 
 class Portfolio extends Component{
