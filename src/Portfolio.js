@@ -13,7 +13,7 @@ import shutter from './shutterup.png';
 class Portfolio extends Component{
     render(){
         return(
-            <div className="portfolio">
+            <div className="portfolio" id="portfolio">
                 <h3 className="aboutheader wow fadeIn">My work</h3>
                 <div className="container">
                     <div className="row">

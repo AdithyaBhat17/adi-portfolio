@@ -10,7 +10,7 @@ class About extends Component{
     }
     render(){
         return(
-            <div className="about">
+            <div className="about" id="about">
                 <h3 className="aboutheader wow fadeInDown">About Me</h3>
                 <div className="container">
                     <div className="row">
