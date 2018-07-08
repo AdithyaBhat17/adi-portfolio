@@ -14,7 +14,7 @@ class Portfolio extends Component{
     render(){
         return(
             <div className="portfolio" id="portfolio">
-                <h3 className="aboutheader wow fadeIn">My work</h3>
+                <h3 className="aboutheader wow fadeIn">&lt;My work/&gt;</h3>
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-3 col-sm-12 col-xs-12 wow fadeInUp">

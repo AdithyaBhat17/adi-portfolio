@@ -255,16 +255,16 @@ html{
   padding-bottom:10px;
 }
 .form{
-  margin:10vh auto;
-  width: 50%;
+  margin:11vh auto;
+  width: 80%;
   border-radius: 18px;
-  padding:30px 30px 10px;
+  padding:10px 30px 10px;
   outline: none !important;
   box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
 }
 
 .form-control{
-  border:3px solid #16174355;
+  border:1px solid #16174355;
   border-radius:18px !important;
   color:#161743aa !important;
   outline: none !important;
@@ -291,8 +291,39 @@ textarea{
   resize:none;
 }
 
+.form p{
+  font-size: 16px;
+  color:#16174377;
+}
+
 .gotcha{
   display: none;
+}
+
+.contactimg{
+  width: 100%;
+  margin:8vh auto 0;
+}
+
+.footer{
+  background-color:#161743;
+  padding:20px 10px 10px;
+  text-align:center;
+  color:#ffffffaa;
+  font-family: Roboto;
+}
+
+.foot a{
+  text-decoration: none !important;
+  color:#fff;
+  padding:10px;
+  font-size: 1.5em;
+}
+.foot2{
+  text-decoration: none !important;
+  color:#fff;
+  font-family: "Reem Kufi";
+  font-size:16px;
 }
 
 /* iphone 4 */
@@ -359,7 +390,15 @@ textarea{
     margin-bottom: 20px !important;
   }
   .form{
-    width:90%;
+    width:95%;
+    margin:5px auto 20px;
+    padding:5px 20px 10px;
+  }
+  .contactimg{
+    margin:20px auto 0;
+  }
+  .footer {
+    padding:20px 10px 5px!important;
   }
 }
 
@@ -430,8 +469,12 @@ textarea{
     font-size: 16px;
   }
   .form{
-    width:90%;
-    margin:5px auto;
+    width:95%;
+    margin:5px auto 10px;
+    padding:5px 20px 10px;
+  }
+  .contactimg{
+    margin:20px auto 0;
   }
 }
 
@@ -463,6 +506,13 @@ textarea{
   }
   .about-p{
     font-size: 16.5px;
+  }
+  .form{
+    margin:5px auto 10px;
+    padding:5px 20px 10px;
+  }
+  .contactimg{
+    margin:30px auto 0;
   }
 }
 
@@ -535,6 +585,14 @@ textarea{
   }
   .workp{
     font-size: 16px;
+  }
+  .form{
+    width:95%;
+    margin:5px auto 10px;
+    padding:5px 20px 10px;
+  }
+  .contactimg{
+    margin:20px auto 0;
   }
 }
 
@@ -609,6 +667,14 @@ textarea{
   }
   .workbtn{
     padding-bottom: 3px;
+  }
+  .form{
+    width:95%;
+    margin:5px auto 10px;
+    padding:5px 20px 10px;
+  }
+  .contactimg{
+    margin:20px auto 0;
   }
 }
 
@@ -696,6 +762,14 @@ textarea{
   .workbtn{
     font-size: 18px;
     padding: 2px 35px 3px 30px;
+  }
+  .form{
+    width:95%;
+    margin:0 auto 10px;
+    padding:15px 20px 15px;
+  }
+  .contactimg{
+    margin:30px auto 0;
   }
 }
 
@@ -787,6 +861,19 @@ textarea{
     font-size: 21px;
     padding: 2px 45px 3px 45px;
   }
+  .form{
+    width:95%;
+    margin:0 auto 10px;
+    padding:10px 20px 10px;
+    font-size:18px;
+  }
+  .form p{
+    font-size:18px;
+  }
+  .contactimg{
+    margin:20px auto 0;
+    width:90%;
+  }
 }
 
 @media only screen and (device-width:1024px) and (device-height:1366px){
@@ -877,6 +964,22 @@ textarea{
     font-size: 24px;
     padding: 2px 45px 3px 45px;
   }
+  .form{
+    width:95%;
+    margin:-10px auto 10px;
+    padding:10px 20px 10px;
+    font-size:21px;
+  }
+  .btnf{
+    padding:5px 50px;
+  }
+  .form p{
+    font-size:21px;
+  }
+  .contactimg{
+    margin:30px auto 0;
+    width:90%;
+  }
 }
 
 @media only screen and (min-width:1440px){
@@ -907,6 +1010,19 @@ textarea{
   }
   .workp{
     font-size:16px;
+  }
+  .form{
+    width:95%;
+    margin:10vh auto 10px;
+    padding:10px 20px 10px;
+    font-size:18px;
+  }
+  .form p{
+    font-size:18px;
+  }
+  .contactimg{
+    margin:10vh auto 0;
+    width:90%;
   }
 }
 
